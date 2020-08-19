@@ -1,0 +1,218 @@
+body{
+    background-color: #E5E5E5;
+    margin:0 auto ;
+}
+section{
+    
+}
+.head{
+
+    background-color: #F0FFF0;
+    height: 576px;
+    position:;
+}
+.main{
+    width:1200px;
+    background-color: white;
+    margin:0 auto ;
+    height: Px;
+}
+.logo{
+        position: absolute;
+        margin-left: 200px;
+        top: 45px;
+        
+    }
+    .nav{
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        margin-left: 600px;
+        overflow: hidden;
+        
+        
+    }
+    ul li{
+        list-style: none;
+        float: left;
+        margin-left: 30px;
+        margin-top: 40px;
+        
+    }
+    ul li a{
+        color: black;
+    }
+    ul li a:hover{
+        color: tomato;
+    }
+    .btn{
+        background-color: #21B573;
+        padding: 10px 20px;
+        border-radius: 33px;
+        overflow: hidden;
+        float: left;
+        margin-left: 30px;
+        margin-top: 30px;
+        color: white;
+
+    }
+    .content{
+        width: 350px;
+        margin-left:200px;
+        margin-top: 100px;
+        float: left;
+    }
+    h2{
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    span{
+        color:#21B573;
+    }
+    .c-title{
+        color:red;
+    }
+    .c-img{
+        float: left;
+        overflow: hidden;
+        margin-left:30px;
+        margin-top: 100px;
+        background-color:#F0FFF0;
+    
+    }
+
+  .Student{
+        width: 200px;
+        height: 200px;
+        background-color:white;
+        float: left;
+        box-shadow: 10px 10px  10px rgb(233, 227, 227);
+        text-align: center;
+        margin-top:40px;
+        margin-left: 30px;
+        align-items: center;
+    }
+    .Students{
+        width: 200px;
+        height: 200px;
+        background-color:#F0FFF0;
+        float: left;
+        text-align: center;
+        margin-top:40px;
+        margin-left: 30px;
+
+    }
+    .book{
+        width: 200px;
+        height: 200px;
+        background-color:#F0FFF0;
+        float: left;
+        text-align: center;
+        margin-top:40px;
+
+    }
+    .test{
+        width: 200px;
+        height: 200px;
+        background-color:#F0FFF0;
+        float: left;
+        text-align: center;
+        margin-top:40px;
+        margin-left: 30px;
+
+    }
+    .topic{
+        overflow: hidden;
+        margin-left: 150px;
+        
+    }
+    .center{
+        margin-top: 30px;
+    }
+    .online{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
+    .card-size{
+        width: 330px;
+        height: 480px;
+        background: #FFFFFF;
+        overflow: hidden;
+        margin-left:20px;
+        }
+        .card{
+            border: none;
+            
+        }
+        .button{
+            margin: 0;
+        }
+        .card-deck{
+            margin-left: 60px;
+            margin-top: 40px;
+        }
+        .card-body{
+            height: 270px;
+            width: 300px;
+        }
+        .time{
+            margin-top: 60px;
+            float: left;
+           
+        }
+        .set{
+            margin-left: 10px;
+        }
+        .tp{
+            width:900px;
+            margin-left:40px;
+            margin-top: 50px;
+            
+        }
+        .t-img{
+            float: left;
+            margin-left: 250px;
+            padding: 10px 30px;
+        }
+        .footer{
+            width: 1200px;
+            height: 369px;
+            background: #282531;
+            margin-top: 70px;
+           
+        }
+        .ftr-text{
+            font-family: Poppins;
+            font-style: normal;
+            font-size: 12px;
+            color: #FFFFFF;
+            line-height: 30px;
+            padding: 40px  40px;
+        }
+        .f-text{
+            padding: 0px 30px;
+            margin-left:;
+        }
+        .copyright{
+            margin-top: 20px;
+        }
+        .ancor{
+            color: #FFFFFF;
+        }
+        
+        @media(max-width:480px){
+            ul li{
+                flex-direction: column;
+            }
+        }
+        section{
+            flex-wrap: wrap;
+        }
