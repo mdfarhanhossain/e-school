@@ -59,7 +59,7 @@ section{
 
     }
     .content{
-        width: 350px;
+        width: 300px;
         margin-left:200px;
         margin-top: 100px;
         float: left;
@@ -68,8 +68,8 @@ section{
         font-family: 'Poppins', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 40px;
-        line-height: 50px;
+        font-size: 30px;
+        line-height: 45px;
     }
     span{
         color:#21B573;
