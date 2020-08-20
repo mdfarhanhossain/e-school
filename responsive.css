@@ -6,11 +6,12 @@
         
     }
     ul li{
-        padding: 0 5px;
+        padding: 0 0px;
     }
     div.content{
         margin-right: 100px;
-        padding-right: 50px;
+        padding-left: 50px;
+        width: 250px;
     }
     div.c-img{
         margin-right: 300px;
@@ -21,7 +22,7 @@
         
     }
     section.head{
-        height: 1000px;
+        height: 1100px;
     }
     div.book .{
         
@@ -54,3 +55,7 @@
         height:900px;
         background: #282531;
     }
+    button.btn{
+        padding: 5px 6px;
+    }
+}
